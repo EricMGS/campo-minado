@@ -1,0 +1,4 @@
+#Sun Aug 02 21:32:53 BRT 2020
+base.0=/home/user/Desktop/react-native/campoMinado/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
